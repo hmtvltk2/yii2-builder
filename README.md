@@ -21,7 +21,7 @@
 A form builder extension that allows you to build both single view and multi-view/tabular forms for Yii Framework 2.0. The extension contains these widgets:
 
 - Form
-- FormGrid
+- FormGrid for bootstrap4
 - TabularForm
 
 > NOTE: Check the [composer.json](https://github.com/kartik-v/yii2-builder/blob/master/composer.json) for this extension's requirements and dependencies. 
